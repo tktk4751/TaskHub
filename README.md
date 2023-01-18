@@ -1,1 +1,1 @@
-my firdt created app
+my first created app
